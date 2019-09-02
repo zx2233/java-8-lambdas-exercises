@@ -1,6 +1,6 @@
 package com.insightfullogic.java8.answers.chapter2;
 
-/**1
+/**
  * Question 1:
  *  a. See Function.png
  *  b. Unary Operators, for example 'not'
